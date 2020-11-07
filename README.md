@@ -14,7 +14,7 @@
 
 
 ## 스터디 규칙
-[링크 참조]()
+[링크 참조](https://github.com/Over-10-Study/study-rule)
 
 
 ## 발표 일정
