@@ -21,7 +21,7 @@
 | 일시       | 장소        | 발표자   | 발표 주제 | 발표 자료 |
 |------------|-------------|----------|-----------|-----------|
 | 2020-11-21 | Google Meet | 로비     |           |           |
-| 2020-11-21 | Google Meet | 올레     |    reactive programming       |           |
+| 2020-11-21 | Google Meet | 올레     |    reactive programming       |   https://docs.google.com/presentation/d/11Hfl6VsrtQxXOIejsNsiO_76UgvUZkRlwNZQ9gVnbco/edit?usp=sharing  |
 | 2020-12-05 |             | 미스터코 |           |           |
 | 2020-12-05 |             | 코맥     |           |           |
 | 2020-12-19 |             | 에이든   |           |           |
