@@ -23,7 +23,7 @@
 | 2020-11-21 | Google Meet | 로비     |                                |           |
 | 2020-11-21 | Google Meet | 올레     |     reactive programming       |   [올레 발표자료](https://docs.google.com/presentation/d/11Hfl6VsrtQxXOIejsNsiO_76UgvUZkRlwNZQ9gVnbco/edit?usp=sharing)  |
 | 2020-12-05 |             | 미스터코 |                                |           |
-| 2020-12-05 |             | 코맥     |                                |           |
+| 2020-12-05 |             | 코맥     |       MSA - spring cloud       |           |
 | 2020-12-19 |             | 에이든   |                                |           |
 | 2020-12-19 |             | 희봉     |                                |           |
 | 2021-01-02 |             | 슬로스   |                                |           |
