@@ -21,9 +21,9 @@
 | 일시       | 장소        | 발표자   |             발표 주제           | 발표 자료 |
 |------------|-------------|----------|-------------------------------|-----------|
 | 2020-11-21 | Google Meet | 로비     |                                |           |
-| 2020-11-21 | Google Meet | 올레     |     reactive programming       |   [올레 발표자료](https://docs.google.com/presentation/d/11Hfl6VsrtQxXOIejsNsiO_76UgvUZkRlwNZQ9gVnbco/edit?usp=sharing)  |
+| 2020-11-21 | Google Meet | 올레     |     reactive programming       |   [발표자료](https://docs.google.com/presentation/d/11Hfl6VsrtQxXOIejsNsiO_76UgvUZkRlwNZQ9gVnbco/edit?usp=sharing)  |
 | 2020-12-05 |             | 미스터코 |                                |           |
-| 2020-12-05 |             | 코맥     |       MSA - spring cloud       |           |
+| 2020-12-05 |             | 코맥     |       MSA - spring cloud       |    [발표자료](https://www.notion.so/MSA-e89a6583028743d18735dc04ae30752c)    |
 | 2020-12-19 |             | 에이든   |                                |           |
 | 2020-12-19 |             | 희봉     |                                |           |
 | 2021-01-02 |             | 슬로스   |                                |           |
